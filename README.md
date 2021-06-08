@@ -4,7 +4,7 @@
 <p align="right">🌈I'm <b>Alok Kumar</b>, A 2nd Year CSE Student From Bakhtiyarpur College Of Engineering,Patna.<br/>Just Exploring This Technical world🚀<p/>
 
 <hr/>
-<h3 align="center">🌟On The Way of becoming a Full-Stack Developer(MERN)💖</h3>
+<h2 align="center">🌟On The Way of becoming a Full-Stack Developer(MERN)💖</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alokkumarak&label=Profile%20views&color=0e75b6&style=flat" alt="alokkumarak" /> </p>
 
 <p align="left"> <a href="https://twitter.com/alokkumar56556" target="blank"><img src="https://img.shields.io/twitter/follow/alokkumar56556?logo=twitter&style=for-the-badge" alt="alokkumar56556" /></a>
