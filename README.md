@@ -26,8 +26,6 @@
 
 - 📄 Know about my experiences: [https://docs.google.com/document/d/1AHrow7wT9gKQdiri5P6dCnqF9NXxleIb](https://docs.google.com/document/d/1AHrow7wT9gKQdiri5P6dCnqF9NXxleIb)
 
-- 😅 Fun fact : **Let's take a momos break 😋.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/alokkumar56556" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alokkumar56556" height="30" width="40" /></a>
