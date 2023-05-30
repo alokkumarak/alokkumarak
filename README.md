@@ -14,13 +14,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alokkumarak&show_icons=true&theme=cobalt" alt="alokkumarak" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alokkumarak&theme=dark" alt="alokkumarak" /></p>
 
-- 🔭 I’m currently working on **node-js solo project**
+- 🔭 I’m currently working on **MERN Stack**
 
-- 🌱 I’m currently learning: **node and mongodb**
+- 🌱 I’m currently learning: **Flutter and Android**
 
 - 👨‍💻 All of my projects are available at: [https://github.com/alokkumarak](https://github.com/alokkumarak)
 
-- 💬 Ask me about **React, PHP, Flex-Box, Firebase, Git-GitHub And DSA.**
+- 💬 Ask me about **React,Node, Express, Next, Css styling, MongoDB, PHP, Flex-Box, Firebase, Git-GitHub And DSA.**
 
 - 📫 Reach me: **alok.sonaili@gmail.com**
 
