@@ -1,7 +1,7 @@
 ### Hello folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <hr/>
-<p align="right">🌈I'm <b>Alok Kumar</b>, A Final Year CSE Student From Bakhtiyarpur College Of Engineering,Patna.<br/>Just Exploring This Technical world🚀<p/>
+<p align="right">🌈I'm <b>Alok Kumar</b>, An Engineering Graduate CSE Student From Bakhtiyarpur College Of Engineering,Patna.<br/>Just Exploring This Technical world🚀<p/>
 
 <hr/>
 <h2 align="center">🌟On The Way of becoming a Full-Stack Developer(MERN)💖</h2>
